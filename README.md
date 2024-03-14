@@ -29,11 +29,11 @@ If any modification to the way you complie needs to be done, it is advisable to 
 
 ## Bugs, corrections, improvements, questions...
 
-Feel free to generate a trunk of this repo and to submit [issues](https://github.com/Biocomputing-Teaching/Template_TFG/issues) of [pull requests](https://github.com/Biocomputing-Teaching/Template_TFG/pulls) to help improving the template. 
+Feel free to generate a trunk of this repo and to submit [issues](https://github.com/Biocomputing-Teaching/Template_TFG/issues) of [pull requests](https://github.com/Biocomputing-Teaching/Template_TFG/pulls) in a fork to help improving the template. 
 
-To learn how to edit $\LaTeX$ files there are a [myriad of resources](https://github.com/MislavJaksic/Latex-Overleaf) in the web. Simply google your specific question and you will get the answer. Additionally, AI tools like ChatGPT can help a lot in building $\LaTeX$ code if you get stuck with some commands or errors reported by the compiler. Finally, external editors like [Overleaf](https://www.overleaf.com/project) can be of great place to start, although once you keep progressing you may prefer using advanced tools like [Visual Studio Code](https://code.visualstudio.com), or [Atom](https://atom-editor.cc), to name some.
+To learn how to edit $\LaTeX$ files there are a [myriad of resources](https://github.com/MislavJaksic/Latex-Overleaf) in the web. Simply google your specific question and you will get the answer. Additionally, AI tools like ChatGPT can help a lot in building $\LaTeX$ code if you get stuck with some commands or errors reported by the compiler. Finally, external editors like [Overleaf](https://www.overleaf.com/project) can be a great place to start, although once you keep progressing you may prefer using advanced tools like [Visual Studio Code](https://code.visualstudio.com), or [Atom](https://atom-editor.cc), to name some.
 
 ## Disclaimer
 
-This template has been created and will be maintained as a help to your writing, but it assumes you will do the proper installation of your $\LaTeX$ environment and editing tools. In addition, the `non-official` character of the template states precisely this, so its use needs to be validated by your degree thesis supervisor.
+This template has been adapted from the analogous from Imperial College London and will be maintained as a help to your writing, but it assumes you will do the proper installation of your $\LaTeX$ environment and editing tools. In addition, the `non-official` character of the template states precisely this, so its use needs to be validated by your degree thesis supervisor.
 
