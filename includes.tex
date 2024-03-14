@@ -26,6 +26,8 @@
 \usepackage{url} % URLs
 \usepackage[english]{babel}
 \usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{systeme}
 \usepackage{graphicx}
 \usepackage{dsfont}
 \usepackage{epstopdf} % automatically replace .eps with .pdf in graphics
@@ -33,6 +35,11 @@
 \usepackage{array}
 \usepackage{latexsym}
 \usepackage{lipsum}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{makecell}
+\usetikzlibrary{angles, arrows.meta, quotes}
 \usepackage[pdftex,pagebackref,hypertexnames=false,colorlinks]{hyperref} % provide links in pdf
 
 \hypersetup{pdftitle={},
@@ -44,8 +51,9 @@
   bookmarksnumbered=true, bookmarksopen=true, colorlinks,
     citecolor=black,%
     filecolor=black,%
-    linkcolor=black,%
-    urlcolor=black}
+    linkcolor=blue,
+    linkbordercolor=blue,%
+    urlcolor=blue}
 
 \usepackage[all]{hypcap}
 
