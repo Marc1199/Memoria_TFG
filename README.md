@@ -20,13 +20,18 @@ To compile, [run](https://ctan.org/pkg/latexmk):
 latexmk report.tex
 ```
 
-If any modification to the way you complie needs to be done, it is advisable to edit the `latexmkrc` file provided in this repo.
+Some times it may be handy to remove all intermediate files before recompiling. To do so:
+```
+latexmk -C
+```
+
+If any modification to the way you complie needs to be done, it is advisable to edit the `latexmkrc` file provided in this repo. Check the [`latexmk`](https://ctan.org/pkg/latexmk) documentation for more.
 
 ## Bugs, corrections, improvements, questions...
 
 Feel free to generate a trunk of this repo and to submit [issues](https://github.com/Biocomputing-Teaching/Template_TFG/issues) of [pull requests](https://github.com/Biocomputing-Teaching/Template_TFG/pulls) to help improving the template. 
 
-To learn how to edit $\LaTeX$ files there are a myriad of resources in the web. Simply google you specific question and you will get the answer. Additionally, AI tools like ChatGPT can help a lot in building $\LaTeX$ code if you get stuck with some commands or errors reported by the compiler.
+To learn how to edit $\LaTeX$ files there are a [myriad of resources](https://github.com/MislavJaksic/Latex-Overleaf) in the web. Simply google your specific question and you will get the answer. Additionally, AI tools like ChatGPT can help a lot in building $\LaTeX$ code if you get stuck with some commands or errors reported by the compiler. Finally, external editors like [Overleaf](https://www.overleaf.com/project) can be of great place to start, although once you keep progressing you may prefer using advanced tools like [Visual Studio Code](https://code.visualstudio.com), or [Atom](https://atom-editor.cc), to name some.
 
 ## Disclaimer
 
