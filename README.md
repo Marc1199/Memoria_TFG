@@ -1,6 +1,6 @@
 # Final degree thesis $\LaTeX$ template
 
-Non-official template for a $\LaTeX$ based final degree thesis at the [Faculty of Sciences, Technology and Engineering](https://mon.uvic.cat/fcte) of the [UVic-UCC](https://www.uvic.cat).
+**Non-official** template for a $\LaTeX$ based final degree thesis at the [Faculty of Sciences, Technology and Engineering](https://mon.uvic.cat/fcte) of the [UVic-UCC](https://www.uvic.cat).
 
 ## Files
 
@@ -35,5 +35,5 @@ To learn how to edit $\LaTeX$ files there are a [myriad of resources](https://gi
 
 ## Disclaimer
 
-This template has been adapted from the analogous from Imperial College London and will be maintained as a help to your writing, but it assumes you will do the proper installation of your $\LaTeX$ environment and editing tools. In addition, the `non-official` character of the template states precisely this, so its use needs to be validated by your degree thesis supervisor.
+This template has been adapted from the analogous one from Imperial College London and will be maintained as a help for your writing, so comments for improvement are welcome. It assumes you will do the proper installation of your $\LaTeX$ environment and editing tools. In addition, the `non-official` character of the template states precisely this, so its use needs to be validated by your degree thesis supervisor.
 
